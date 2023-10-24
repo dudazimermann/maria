@@ -1,0 +1,36 @@
+.Massa{
+    text-align: center;
+    text-decoration: solid;
+    font-style: italic;
+    color: aliceblue;
+    border-color: black;
+    border-width: 0dvb;
+    border-style: dashed;
+    border-radius: 15px 50px 5px 100px
+}
+.Carbonara{
+    text-align: center;
+    text-decoration: wavy;
+    font-style: italic;
+    border-width: 0ch;
+    border-color: black;
+    border-style: dotted;
+    border-radius: 15px 50px 5px 100px;
+}
+.Branco{
+    text-align: center;
+    font-style: italic;
+    border-color: black;
+    border-width: 0dvb;
+    border-style: none;
+    border-radius: 15px 50px 5px 100px;
+}
+h1{
+    background-color: rgb(10, 17, 85);
+}
+h2{
+    background-color: rgb(77, 37, 114);
+}
+h3{
+    background-color: rgb(4, 133, 90);
+}
