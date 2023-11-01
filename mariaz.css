@@ -1,6 +1,7 @@
 .Massa{
     text-align: center;
     text-decoration: solid;
+    width: 55%;
     font-style: italic;
     color: aliceblue;
     border-color: black;
@@ -10,6 +11,7 @@
 }
 .Carbonara{
     text-align: center;
+    width: 50%;
     text-decoration: wavy;
     font-style: italic;
     border-width: 0ch;
@@ -19,6 +21,7 @@
 }
 .Branco{
     text-align: center;
+    width: 55%;
     font-style: italic;
     border-color: black;
     border-width: 0dvb;
